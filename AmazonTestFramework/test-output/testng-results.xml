@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Amazon Application Launched Successfully!!]]>
+    </line>
+    <line>
+      <![CDATA[Webelements for Landing page initiated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hamburger button Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Webelements for Shop by category page initiated successfully]]>
+    </line>
+    <line>
+      <![CDATA[ShopByCategory selected]]>
+    </line>
+    <line>
+      <![CDATA[electronics selected]]>
+    </line>
+    <line>
+      <![CDATA[kindle selected]]>
+    </line>
+    <line>
+      <![CDATA[Kindle E-Readers element is verfied]]>
+    </line>
+    <line>
+      <![CDATA[Kindle E-Readers element is verification done]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53918" started-at="2019-09-11T16:43:05Z" finished-at="2019-09-11T16:43:59Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="53918" started-at="2019-09-11T16:43:05Z" finished-at="2019-09-11T16:43:59Z">
+      <class name="com.amazon.executor.TestExecutor">
+        <test-method status="PASS" signature="testLandingPAndShopByCatgoryage()[pri:0, instance:com.amazon.executor.TestExecutor@69b0fd6f]" name="testLandingPAndShopByCatgoryage" duration-ms="39399" started-at="2019-09-11T16:43:19Z" finished-at="2019-09-11T16:43:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Webelements for Landing page initiated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hamburger button Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Webelements for Shop by category page initiated successfully]]>
+            </line>
+            <line>
+              <![CDATA[ShopByCategory selected]]>
+            </line>
+            <line>
+              <![CDATA[electronics selected]]>
+            </line>
+            <line>
+              <![CDATA[kindle selected]]>
+            </line>
+            <line>
+              <![CDATA[Kindle E-Readers element is verfied]]>
+            </line>
+            <line>
+              <![CDATA[Kindle E-Readers element is verification done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLandingPAndShopByCatgoryage -->
+      </class> <!-- com.amazon.executor.TestExecutor -->
+      <class name="com.amazon.setup.BaseSetup">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.setup.BaseSetup@462d5aee]" name="setup" is-config="true" duration-ms="13163" started-at="2019-09-11T16:43:05Z" finished-at="2019-09-11T16:43:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[127.0.0.2:4724]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Amazon Application Launched Successfully!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.setup.BaseSetup@462d5aee]" name="tearDown" is-config="true" duration-ms="1326" started-at="2019-09-11T16:43:58Z" finished-at="2019-09-11T16:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.setup.BaseSetup -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

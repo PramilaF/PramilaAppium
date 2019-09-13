@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AppiumJars"/>
+	<classpathentry kind="lib" path="C:/SeleniumMay2019/CoreFiles/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/VidhiAppium/SeleniumWorkspace/AppiumJars/selenium-remote-driver-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/AppData/Local/Android/Sdk/platforms/android-28/android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/AppData/Local/Android/Sdk/platforms/android-28/uiautomator.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/VidhiAppium/SeleniumWorkspace/AppiumJars/apache-log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/VidhiAppium/SeleniumWorkspace/AppiumJars/java-client-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/VidhiAppium/SeleniumWorkspace/AppiumJars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/VidhiAppium/SeleniumWorkspace/AppiumJars/Silverlight-Selenium.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

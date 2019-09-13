@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T20:21:21</date>
+  <millis>1568213481337</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T20:22:27</date>
+  <millis>1568213547936</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T20:24:22</date>
+  <millis>1568213662561</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T20:29:50</date>
+  <millis>1568213990813</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T20:54:00</date>
+  <millis>1568215440193</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:05:07</date>
+  <millis>1568216107970</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:18:54</date>
+  <millis>1568216934369</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:39:44</date>
+  <millis>1568218184606</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:41:41</date>
+  <millis>1568218301943</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:52:26</date>
+  <millis>1568218946044</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:53:52</date>
+  <millis>1568219032217</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T22:13:59</date>
+  <millis>1568220239746</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="2" name="Test1(failed)" parallel="tests">
+    <parameter name="port" value="127.0.0.1:4723"/>
+    <parameter name="deviceName" value="emulator-5554"/>
+    <classes>
+      <class name="com.amazon.executor.TestExecutor">
+        <methods>
+          <include name="testLandingPAndShopByCatgoryage"/>
+        </methods>
+      </class> <!-- com.amazon.executor.TestExecutor -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

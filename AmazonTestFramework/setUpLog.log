@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:39:06</date>
+  <millis>1568218146696</millis>
+  <sequence>4</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>setup</method>
+  <thread>12</thread>
+  <message>setup Called</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:06</date>
+  <millis>1568218146850</millis>
+  <sequence>5</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>hamburger button is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:08</date>
+  <millis>1568218148884</millis>
+  <sequence>6</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>Hamburger button Clicked</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:08</date>
+  <millis>1568218148898</millis>
+  <sequence>7</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:13</date>
+  <millis>1568218153638</millis>
+  <sequence>8</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:23</date>
+  <millis>1568218163648</millis>
+  <sequence>9</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:30</date>
+  <millis>1568218170423</millis>
+  <sequence>10</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:30</date>
+  <millis>1568218170424</millis>
+  <sequence>11</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>scrolling to kindle</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:35</date>
+  <millis>1568218175426</millis>
+  <sequence>12</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:37</date>
+  <millis>1568218177328</millis>
+  <sequence>13</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:42</date>
+  <millis>1568218182329</millis>
+  <sequence>14</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Started checking presence of Kindle EReader</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:43</date>
+  <millis>1568218183160</millis>
+  <sequence>15</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Kindle E-Readers element is verfied</message>
+</record>
+<record>
+  <date>2019-09-11T21:39:44</date>
+  <millis>1568218184606</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:41:01</date>
+  <millis>1568218261535</millis>
+  <sequence>4</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>setup</method>
+  <thread>12</thread>
+  <message>setup Called</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:01</date>
+  <millis>1568218261625</millis>
+  <sequence>5</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>hamburger button is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:05</date>
+  <millis>1568218265319</millis>
+  <sequence>6</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>Hamburger button Clicked</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:05</date>
+  <millis>1568218265324</millis>
+  <sequence>7</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:10</date>
+  <millis>1568218270176</millis>
+  <sequence>8</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:20</date>
+  <millis>1568218280181</millis>
+  <sequence>9</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:27</date>
+  <millis>1568218287031</millis>
+  <sequence>10</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:27</date>
+  <millis>1568218287032</millis>
+  <sequence>11</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>scrolling to kindle</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:32</date>
+  <millis>1568218292032</millis>
+  <sequence>12</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:34</date>
+  <millis>1568218294053</millis>
+  <sequence>13</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:39</date>
+  <millis>1568218299054</millis>
+  <sequence>14</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Started checking presence of Kindle EReader</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:40</date>
+  <millis>1568218300233</millis>
+  <sequence>15</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Kindle E-Readers element is verfied</message>
+</record>
+<record>
+  <date>2019-09-11T21:41:41</date>
+  <millis>1568218301943</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:51:48</date>
+  <millis>1568218908385</millis>
+  <sequence>4</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>setup</method>
+  <thread>12</thread>
+  <message>setup Called</message>
+</record>
+<record>
+  <date>2019-09-11T21:51:48</date>
+  <millis>1568218908487</millis>
+  <sequence>5</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>hamburger button is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:51:50</date>
+  <millis>1568218910743</millis>
+  <sequence>6</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>Hamburger button Clicked</message>
+</record>
+<record>
+  <date>2019-09-11T21:51:50</date>
+  <millis>1568218910746</millis>
+  <sequence>7</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:51:54</date>
+  <millis>1568218914709</millis>
+  <sequence>8</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:04</date>
+  <millis>1568218924713</millis>
+  <sequence>9</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:11</date>
+  <millis>1568218931701</millis>
+  <sequence>10</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:11</date>
+  <millis>1568218931702</millis>
+  <sequence>11</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>scrolling to kindle</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:16</date>
+  <millis>1568218936704</millis>
+  <sequence>12</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:18</date>
+  <millis>1568218938526</millis>
+  <sequence>13</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:23</date>
+  <millis>1568218943527</millis>
+  <sequence>14</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Started checking presence of Kindle EReader</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:24</date>
+  <millis>1568218944593</millis>
+  <sequence>15</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Kindle E-Readers element is verfied</message>
+</record>
+<record>
+  <date>2019-09-11T21:52:26</date>
+  <millis>1568218946044</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T21:53:14</date>
+  <millis>1568218994317</millis>
+  <sequence>4</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>setup</method>
+  <thread>12</thread>
+  <message>setup Called</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:14</date>
+  <millis>1568218994528</millis>
+  <sequence>5</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>hamburger button is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:18</date>
+  <millis>1568218998186</millis>
+  <sequence>6</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>Hamburger button Clicked</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:18</date>
+  <millis>1568218998191</millis>
+  <sequence>7</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:20</date>
+  <millis>1568219000854</millis>
+  <sequence>8</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:30</date>
+  <millis>1568219010859</millis>
+  <sequence>9</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:37</date>
+  <millis>1568219017551</millis>
+  <sequence>10</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:37</date>
+  <millis>1568219017552</millis>
+  <sequence>11</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>scrolling to kindle</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:42</date>
+  <millis>1568219022554</millis>
+  <sequence>12</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:44</date>
+  <millis>1568219024676</millis>
+  <sequence>13</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:49</date>
+  <millis>1568219029677</millis>
+  <sequence>14</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Started checking presence of Kindle EReader</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:50</date>
+  <millis>1568219030704</millis>
+  <sequence>15</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Kindle E-Readers element is verfied</message>
+</record>
+<record>
+  <date>2019-09-11T21:53:52</date>
+  <millis>1568219032217</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-11T22:13:18</date>
+  <millis>1568220198990</millis>
+  <sequence>4</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>setup</method>
+  <thread>12</thread>
+  <message>setup Called</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:19</date>
+  <millis>1568220199157</millis>
+  <sequence>5</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>hamburger button is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:21</date>
+  <millis>1568220201655</millis>
+  <sequence>6</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.LandingPage</class>
+  <method>clickOnHamburger</method>
+  <thread>12</thread>
+  <message>Hamburger button Clicked</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:21</date>
+  <millis>1568220201660</millis>
+  <sequence>7</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:29</date>
+  <millis>1568220209191</millis>
+  <sequence>8</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>ShopByCategory is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:39</date>
+  <millis>1568220219201</millis>
+  <sequence>9</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:45</date>
+  <millis>1568220225889</millis>
+  <sequence>10</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>electronics is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:45</date>
+  <millis>1568220225890</millis>
+  <sequence>11</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>scrolling to kindle</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:50</date>
+  <millis>1568220230891</millis>
+  <sequence>12</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is enabled</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:52</date>
+  <millis>1568220232567</millis>
+  <sequence>13</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>kindle is tapped suucessfully</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:57</date>
+  <millis>1568220237567</millis>
+  <sequence>14</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Started checking presence of Kindle EReader</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:58</date>
+  <millis>1568220238413</millis>
+  <sequence>15</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.pageobjects.CatgorySelection</class>
+  <method>clickOnShopByCategory</method>
+  <thread>12</thread>
+  <message>Kindle E-Readers element is verfied</message>
+</record>
+<record>
+  <date>2019-09-11T22:13:59</date>
+  <millis>1568220239746</millis>
+  <sequence>16</sequence>
+  <logger>org.apache.commons.logging.Log</logger>
+  <level>INFO</level>
+  <class>com.amazon.setup.BaseSetup</class>
+  <method>tearDown</method>
+  <thread>12</thread>
+  <message>quit done successly</message>
+</record>
+</log>
